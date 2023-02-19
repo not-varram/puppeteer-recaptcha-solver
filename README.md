@@ -1,5 +1,5 @@
 # puppeteer-recaptcha-solver
-Modified version of: https://greasyfork.org/en/scripts/444872-7-recaptcha-solver-backup
+Modified version of: https://greasyfork.org/en/scripts/444872-7-recaptcha-solver-backup (to work with puppeteer and in headless mode)
 
 You can find an example of how to use it in this repo (example.js)
 
