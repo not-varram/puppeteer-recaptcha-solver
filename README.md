@@ -1,7 +1,12 @@
 # puppeteer-recaptcha-solver
 Modified version of: https://greasyfork.org/en/scripts/444872-7-recaptcha-solver-backup
 
-# Solver Code
+You can find an example of how to use it in example.js
+
+this also works in headless-mode
+
+
+# The Code for the solver
 
 
 ```
